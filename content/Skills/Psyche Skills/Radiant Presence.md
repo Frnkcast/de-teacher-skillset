@@ -73,5 +73,5 @@ You command the room with your energy and charisma, drawing students in and hold
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Psyche Skills]]

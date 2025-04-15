@@ -72,5 +72,5 @@ You’re a shark—stop moving, and you die. Conferences, webinars, obscure JSTO
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

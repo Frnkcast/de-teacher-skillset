@@ -1,4 +1,4 @@
-<-- [[Summary]]
+<-- [[content/index]]
 ### **Interactions Between Teacher Skill Categories: Synergies, Tensions, and Obstructions**
 
 The expanded framework (**Intellect, Psyche, Physique, Motorics, Reflexive, Systemic, Adaptive**) creates a dynamic web of interactions. Skills can **reinforce, clash, or negate** each other—shaping a teacher’s effectiveness in unexpected ways.

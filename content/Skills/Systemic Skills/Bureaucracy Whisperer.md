@@ -70,5 +70,5 @@ You speak the _arcane tongue_ of policy loopholes, funding codes, and complian
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

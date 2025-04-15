@@ -1,4 +1,4 @@
-<-- [[Summary]]
+<-- [[content/index]]
 ## **NEW CATEGORIES**
 
 ### **5. Reflexive Skills (Meta-Teaching & Self-Improvement)**

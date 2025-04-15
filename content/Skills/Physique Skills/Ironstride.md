@@ -73,5 +73,5 @@ You are a marathoner of the classroom, powering through long days with relentles
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Physique Skills]]

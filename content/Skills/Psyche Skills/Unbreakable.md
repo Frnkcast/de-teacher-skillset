@@ -73,5 +73,5 @@ critical-failure: The Emotional Boulder
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Psyche Skills]]

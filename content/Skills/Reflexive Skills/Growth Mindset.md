@@ -74,5 +74,5 @@ Failure is fertilizer—or so you preach. You see potential in every flubbed tes
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

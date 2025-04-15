@@ -73,5 +73,5 @@ critical-failure: The Anarch's Nightmare
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Intellect Skills]]

@@ -73,5 +73,5 @@ You are a guardian of knowledge and experience, sharing your hard-earned wisdom 
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Intellect Skills]]

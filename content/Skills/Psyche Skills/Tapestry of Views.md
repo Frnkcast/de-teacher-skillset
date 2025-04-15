@@ -73,5 +73,5 @@ You weave together diverse perspectives, creating a classroom where every voice 
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Psyche Skills]]

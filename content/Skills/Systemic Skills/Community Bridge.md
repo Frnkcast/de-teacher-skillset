@@ -71,5 +71,5 @@ critical-failure: The Over-sharer
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

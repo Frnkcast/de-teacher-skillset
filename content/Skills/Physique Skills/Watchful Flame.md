@@ -73,5 +73,5 @@ critical-failure: The Panopticon
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Physique Skills]]

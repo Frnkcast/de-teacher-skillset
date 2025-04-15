@@ -1,4 +1,4 @@
-<-- [[Summary]]
+<-- [[content/index]]
 ## **MOTORICS SKILLS (Practical & Technical Execution)**
 
 **Core Idea:** _Effective implementation of teaching strategies._

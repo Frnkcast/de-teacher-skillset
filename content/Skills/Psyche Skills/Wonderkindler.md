@@ -73,5 +73,5 @@ You ignite curiosity and passion in your students, turning even the driest topic
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Psyche Skills]]

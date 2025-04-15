@@ -74,5 +74,5 @@ You are a master of time, pacing your lessons perfectly and ensuring every momen
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Motorics Skills]]

@@ -73,5 +73,5 @@ You are a weaver of relationships, building networks that support and inspire. Y
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Motorics Skills]]

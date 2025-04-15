@@ -78,5 +78,5 @@ You turn every lesson into an ode to the planet—math problems calculate carbon
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

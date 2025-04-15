@@ -73,5 +73,5 @@ You are the calm in the storm, maintaining composure even in the most chaotic mo
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Physique Skills]]

@@ -73,5 +73,5 @@ You hunt your own prejudices like a detective stalking a shadow. Every grade, ev
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

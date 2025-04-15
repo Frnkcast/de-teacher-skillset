@@ -74,5 +74,5 @@ You’re a junkie for peer-reviewed studies. Hattie’s effect sizes? Marzano’
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

@@ -78,5 +78,5 @@ You speak the native tongue of TikTok, Discord, and existential memes. You know 
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

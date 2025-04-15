@@ -71,5 +71,5 @@ You know the contract _better than HR_—the exact limits of duty hours, the ar
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

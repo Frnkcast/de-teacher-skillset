@@ -73,5 +73,5 @@ You are the architect of learning, crafting lesson plans that are both structure
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Intellect Skills]]

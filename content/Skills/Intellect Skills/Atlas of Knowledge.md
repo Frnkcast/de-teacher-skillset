@@ -72,5 +72,5 @@ Your mind is a vast repository of information, a living encyclopedia of your sub
 - **Lesson Snippet**: "Teach one ‘useless’ fun fact per unit."  
 
 ### **Linked Notes** 
-[[Summary]]
+[[content/index]]
 - [[Intellect Skills]]

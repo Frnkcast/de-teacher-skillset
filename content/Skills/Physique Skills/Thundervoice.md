@@ -73,5 +73,5 @@ Your voice is a force of nature, commanding attention and clarity even in the no
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Physique Skills]]

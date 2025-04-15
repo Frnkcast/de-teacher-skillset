@@ -78,5 +78,5 @@ When the fire alarm blares or a fight erupts, you are the still point in the tur
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

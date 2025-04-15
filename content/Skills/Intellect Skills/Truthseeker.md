@@ -73,5 +73,5 @@ You are a detective in the classroom, uncovering the hidden struggles and misund
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Intellect Skills]]

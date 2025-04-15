@@ -70,5 +70,5 @@ Your reflection is your co-teacher. You obsessively analyze your lessons, replay
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

@@ -74,5 +74,5 @@ You are a maestro of the digital classroom, conducting Zoom, LMS platforms, and 
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

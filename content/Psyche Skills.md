@@ -1,4 +1,4 @@
-<-- [[Summary]]
+<-- [[content/index]]
 ## **PSYCHE SKILLS (Emotional & Social Intelligence)**
 
 **Core Idea:** _Managing relationships, emotions, and motivation._

@@ -71,5 +71,5 @@ You are the _defender of the defenseless_—fighting for resources, policy chan
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[Summary]]
+[[content/index]]
 - [[Expanded Skillset - New Categories]]

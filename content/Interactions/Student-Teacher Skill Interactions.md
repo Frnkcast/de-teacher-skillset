@@ -1,4 +1,4 @@
-<-- [[Summary]]
+<-- [[content/index]]
 ### **Student-Teacher Skill Interactions: A Practical Framework**
 
 To analyze how student and teacher skills interact, we’ll focus on **realistic classroom dynamics**, avoiding exaggerated or whimsical elements. Below is a structured breakdown of how student behaviors (represented as skills) **reinforce, challenge, or disrupt** teacher competencies.

@@ -3,6 +3,9 @@ title: DE-style Teacher Skillset
 ---
 
 # **Teacher Skillset Framework v1.0**  
+
+Disco Elysium-inspired framework in which the skills needed in education as a teacher are illustrated with realism and a bit of whimsy. Constructed using Obsidian and DeepSeek.
+
 **Core Categories**: Intellect, Psyche, Physique, Motorics (+ Reflexive, Systemic, Adaptive).  
 
 #### **Key Links**  

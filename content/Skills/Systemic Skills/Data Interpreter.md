@@ -71,5 +71,5 @@ You see the _stories_ behind the spreadsheets—the kid failing math but acing
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
+
 - [[Expanded Skillset - New Categories]]

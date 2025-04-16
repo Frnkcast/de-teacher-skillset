@@ -73,5 +73,4 @@ critical-failure: The False Peace
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Psyche Skills]]

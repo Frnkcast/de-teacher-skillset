@@ -1,4 +1,4 @@
-<-- [[content/index]]
+
 ## **PHYSIQUE SKILLS (Physical & Environmental Mastery)**
 
 **Core Idea:** _Sustaining energy and managing the classroom space._

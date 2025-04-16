@@ -1,4 +1,4 @@
-<-- [[content/index]]
+
 ### **Student Skillset: Surviving the Bildungsroman**
 
 #### **1. _Naptime Calculus_ 😴➗**

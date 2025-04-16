@@ -75,5 +75,4 @@ You transmute criticism into gold. Student evals, peer observations, admin nitpi
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Expanded Skillset - New Categories]]

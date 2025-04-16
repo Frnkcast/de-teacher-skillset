@@ -78,5 +78,5 @@ You dance with the silicon demons—ChatGPT, Midjourney, Grammarly—knowing whe
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
+
 - [[Expanded Skillset - New Categories]]

@@ -1,4 +1,4 @@
-<-- [[content/index]]
+
 ## **INTELLECT SKILLS (Cognitive & Pedagogical Expertise)**
 
 **Core Idea:** _Mastery of knowledge and its transmission._

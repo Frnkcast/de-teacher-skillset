@@ -1,5 +1,4 @@
-<-- [[content/index]]
-# Query 1: 
+
 
 ### **Alternative Skills & Teacher Archetypes**  
 

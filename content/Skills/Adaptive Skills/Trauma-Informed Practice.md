@@ -69,5 +69,4 @@ You see the invisible wounds. A clenched jaw, a withdrawn posture—you recogniz
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Expanded Skillset - New Categories]]

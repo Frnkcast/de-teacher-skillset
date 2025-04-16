@@ -73,5 +73,4 @@ You move through the classroom with purpose and grace, balancing attention, ener
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Motorics Skills]]

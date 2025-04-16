@@ -1,4 +1,4 @@
-<-- [[content/index]]
+
 ### **Administrators’ Role in Teacher Skill Development, Corruption, and Redemption**
 
 _(How principals, superintendents, and PD coordinators shape—or sabotage—teacher growth through policies, culture, and power dynamics.)_

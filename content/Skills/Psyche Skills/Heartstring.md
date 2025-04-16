@@ -73,5 +73,4 @@ You have an uncanny ability to sense the emotions of others, connecting with stu
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Psyche Skills]]

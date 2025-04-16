@@ -71,5 +71,5 @@ You design the _invisible foundations_ of school culture—norms, rituals, and
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
+
 - [[Expanded Skillset - New Categories]]

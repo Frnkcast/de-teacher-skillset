@@ -3,7 +3,6 @@ tags:
   - toolkit
 ---
 
-<-- [[content/index]]
 ### **Student Skill Gap Analysis: A Practical Framework for Teachers**
 
 This system helps educators **diagnose missing student competencies** and align interventions with **teacher skills** and **research-backed strategies**.

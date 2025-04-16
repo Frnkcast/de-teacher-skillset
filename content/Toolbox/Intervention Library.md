@@ -2,7 +2,7 @@
 tags:
   - toolkit
 ---
-<-- [[content/index]]
+
 ### **Intervention Library: Evidence-Based Strategies for Student Skill Gaps**
 
 _A curated collection of targeted techniques, aligned with **student skill deficiencies** and **teacher competencies**._

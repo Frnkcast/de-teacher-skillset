@@ -73,5 +73,4 @@ Your boardwork is a masterpiece, turning complex ideas into clear, visual narrat
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Motorics Skills]]

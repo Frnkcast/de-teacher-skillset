@@ -73,5 +73,4 @@ You are a problem-solving genius, improvising solutions with whatever’s at han
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Motorics Skills]]

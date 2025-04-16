@@ -73,5 +73,4 @@ Your body is a finely tuned engine, converting minimal fuel into sustained energ
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Physique Skills]]

@@ -73,5 +73,4 @@ You are attuned to your body’s signals, knowing when to push forward and when 
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Physique Skills]]

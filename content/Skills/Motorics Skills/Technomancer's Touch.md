@@ -73,5 +73,4 @@ critical-failure: The Glitch Prophet
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Motorics Skills]]

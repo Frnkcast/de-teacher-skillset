@@ -1,4 +1,4 @@
-<-- [[content/index]]
+
 ### **Redemption Arcs for Corrupted Teacher Skills**
 
 _(How to rehabilitate teachers who’ve gone off the deep end with their skills—without losing what made them effective in the first place.)_

@@ -71,5 +71,4 @@ You are a master of reason, untangling complex ideas and presenting them in clea
 - **Lesson Snippet**: 
 
 ### **Linked Notes**  
-[[content/index]]
 - [[Intellect Skills]]

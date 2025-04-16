@@ -17,6 +17,8 @@ Disco Elysium-inspired framework in which the skills needed in education as a te
 		- [[Motorics Skills]]
 		- [[Expanded Skillset - New Categories]]
 		- [[Alternative Skills]] to the canonical 24
+		- [[Corrupted Skills]]
+		- [[Critical Failures of Skills]]
 	- Student Skills
 		- [[Whimsical Student Skillset]]
 		- [[Realistic Student Skills]]
